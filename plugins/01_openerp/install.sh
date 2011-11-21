@@ -8,6 +8,8 @@
 # file that was distributed with this source code.
 #
 
+#test
+
 function openerp_install_postgresql()
 {
     ${INSTALL_BIN} install postgresql
